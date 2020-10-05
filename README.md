@@ -12,6 +12,7 @@ I used R and Rapidminer for exercise, and also did final project using kaggle da
 
 2. Naive Bayes
 - classify dependent variable by using categorical(discrete) independent variables. 
+- use titanic data
 - change all data types into factor
 - train-valid split
 - run naive bayes
@@ -19,6 +20,7 @@ I used R and Rapidminer for exercise, and also did final project using kaggle da
 
 3. KNN
 - classify dependent variable by using numerical(continuous) independent variables. 
+- use iris data
 - train-valid split
 - find best k
 - use knn model
