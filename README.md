@@ -22,7 +22,6 @@ I used R and Rapidminer for exercise, and also did two final projects using kagg
 - classify dependent variable by using numerical(continuous) independent variables. 
 - use iris data
 - train-valid split
-- find best k
-- use knn model
+- find best k and run KNN
 - show confusion matrix
 - report expected class of new data
