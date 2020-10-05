@@ -11,7 +11,7 @@ I used R and Rapidminer for exercise, and also did two final projects using kagg
 - handle missing data
 
 ### 2. Naive Bayes
-- classify dependent variable by using categorical(discrete) independent variables. 
+- predict whether a passenger is survived or dead from the accident by using categorical(discrete) predictors
 - use titanic data
 - change all data types into factor
 - train-valid split
@@ -19,7 +19,7 @@ I used R and Rapidminer for exercise, and also did two final projects using kagg
 - ROC curve, AUC, lift chart, confusion matrix
 
 ### 3. KNN
-- classify dependent variable by using numerical(continuous) independent variables. 
+- classify the type of iris plant by using numerical(continuous) predictors
 - use iris data
 - train-valid split
 - find best k and run KNN
@@ -27,7 +27,7 @@ I used R and Rapidminer for exercise, and also did two final projects using kagg
 - report expected class of new data
 
 ### 4. Decision Tree
-- 
+- classify competitive auctions from noncompetitive auctions by using predictors
 - use e-commerce trading data
 - train-valid split
 - run decision tree
@@ -36,6 +36,14 @@ I used R and Rapidminer for exercise, and also did two final projects using kagg
 - get rules 
 
 ### 5. Neural Net
-
+- predict if the client will subscribe (yes/no) a term deposit by using predictors
+- use bank data
+- train-valid split
+- use 2 hidden layer with 3,2 nodes each
+- show confusion matrix and accuracy
 
 ### 6. Association Rules
+- build a model that will help in packaging and sequencing courses
+- use course data
+- generate frequent itemsets
+- generate association rules and interpret the rules
