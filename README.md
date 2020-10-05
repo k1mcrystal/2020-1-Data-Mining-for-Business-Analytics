@@ -81,6 +81,8 @@ members: 김수빈, 김수정, 배수언, 차주형
 - Neural Net
 
 **5. 적용 결과** 
+<br/>
+<img src="table1.JPG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="table"></img>
 - accuracy는 Random Forest가 0.8300으로 가장 높았고, sensitivity는 Naive Bayes가 0.9344로 가장 높았다. 
 - overfitting은 모든 모델에서 나타나지 않았다. 
 
