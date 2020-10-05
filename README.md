@@ -1,5 +1,6 @@
 # 2020-1-Data-Mining-for-Business-Analytics
-What I learned at DMBA class
+I learned several data mining methods(ex. Naive Bayes, KNN, Decision Tree, Neural Nets, Association Rules) for business analytics. 
+Also, used R and Rapidminer for exercise. 
 
 1. R_basics
 - create a vector
