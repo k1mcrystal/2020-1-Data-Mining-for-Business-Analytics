@@ -104,4 +104,5 @@ member: 김수정
 - Neural Net
 
 **3. 적용 결과**
+</b>
 <img src="table2.JPG" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="table"></img>
