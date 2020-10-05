@@ -18,4 +18,5 @@ I used R and Rapidminer for exercise, and also did final project using kaggle da
 - train-test split
 - find best k
 - use knn model
-- confusion matrix
+- show confusion matrix
+- report expected class of new data
