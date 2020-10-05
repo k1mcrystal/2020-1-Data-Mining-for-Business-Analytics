@@ -32,8 +32,7 @@ I used R and Rapidminer for exercise on my own, and also did two final projects 
 - train-valid split
 - run decision tree
 - parameter tunning (prunning)
-- show confusion matrix
-- get rules 
+- show confusion matrix and get rules 
 
 ### 5. Neural Net
 - predict if the client will subscribe (yes/no) a term deposit by using predictors
