@@ -104,4 +104,4 @@ member: 김수정
 - Neural Net
 
 **3. 적용 결과**
-<img src="/C:/Users/User/Desktop/수업/to/github.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/C:/Users/User/Desktop/수업/github.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
