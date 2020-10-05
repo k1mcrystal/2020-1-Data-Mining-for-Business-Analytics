@@ -25,3 +25,17 @@ I used R and Rapidminer for exercise, and also did two final projects using kagg
 - find best k and run KNN
 - show confusion matrix
 - report expected class of new data
+
+### 4. Decision Tree
+- 
+- use e-commerce trading data
+- train-valid split
+- run decision tree
+- parameter tunning (prunning)
+- show confusion matrix
+- get rules 
+
+### 5. Neural Net
+
+
+### 6. Association Rules
