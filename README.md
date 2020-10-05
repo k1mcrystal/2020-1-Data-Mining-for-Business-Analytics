@@ -80,11 +80,11 @@ members: 김수빈, 김수정, 배수언, 차주형
 - Decision Tree : Boosted Tree
 - Neural Net
 
-- 모델 비교 결과 
-accuracy는 Random Forest가 0.8300으로 가장 높았고, sensitivity는 Naive Bayes가 0.9344로 가장 높았다. 
-overfitting은 모든 모델에서 나타나지 않았다. 
+**5. 적용 결과** 
+- accuracy는 Random Forest가 0.8300으로 가장 높았고, sensitivity는 Naive Bayes가 0.9344로 가장 높았다. 
+- overfitting은 모든 모델에서 나타나지 않았다. 
 
-**5. 결론 및 제언**
+**6. 결론 및 제언**
 - 예약금 제도가 예약 취소 여부에 영향을 미치지 않는다 -> 예약금 제도의 실효성이 부족하다는 의미이므로 새로운 패널티 방법 고안이 필요하다.
 - 이전에 예약을 취소한 적이 있는 고객이 또 예약을 취소하는 경우가 많다 -> 예약 취소 내역이 있는 고객 관리가 필요하다. (명단 관리, 설문 조사)
 - 예약을 수정한 적이 없는 고객이 오히려 예약을 취소하는 경우가 많다 -> 편리한 예약 변경 서비스 개발이 필요하다. (예약 취소보다는 변경 유도)
@@ -93,3 +93,15 @@ overfitting은 모든 모델에서 나타나지 않았다.
 ### Project2. Fundraising Prediction
 member: 김수정
 
+**1. 데이터셋 소개**
+- 데이터셋 이름: fundraising
+- 기부할지 여부를 예측하는 classification model 필요
+
+**2. 적용한 DM 알고리즘**
+- Naive Bayes
+- Classification Tree
+- KNN
+- Neural Net
+
+**3. 적용 결과**
+<img src="/C:/Users/User/Desktop/수업/to/github.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
