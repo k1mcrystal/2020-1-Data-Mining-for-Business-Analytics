@@ -1,8 +1,8 @@
 2020-1-Data-Mining-for-Business-Analytics
 ===================
-> I learned several data mining methods(ex. Naive Bayes, KNN, Decision Tree, Neural Nets, Association Rules) for business analytics.
+> Several data mining methods(ex. Naive Bayes, KNN, Decision Tree, Neural Nets, Association Rules) for business analytics.
 
-> I used R and Rapidminer for exercise on my own, and also did two final projects using kaggle data.
+> used R and Rapidminer for exercise on my own, and also did two final projects using kaggle data.
 
 -------------------------------------
 
