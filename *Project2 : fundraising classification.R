@@ -11,7 +11,7 @@ df = read.csv("Fundraising_final_exam_sp20.csv")
 df <- df[, -c(1, 24)]
 
 ## 3. Change data type
-# have to change all variables to factor
+# change all variables to factor
 
 ## 3-1. dummy variables: change binary variables to factor
 # zip codes, HOMEOWNER, GENDER, TARGET_B
