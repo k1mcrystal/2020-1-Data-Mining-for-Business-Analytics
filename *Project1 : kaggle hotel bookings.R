@@ -1,4 +1,5 @@
 rm(list = ls())
+
 hotel.df = read.csv("hotel_bookings.csv",na.strings = "")
 str(hotel.df)
 summary(hotel.df)
